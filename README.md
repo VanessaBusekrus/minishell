@@ -40,13 +40,13 @@ This will create the minishell executable in the project directory.
 
 ## Example commands:
 
-`$ echo "Hello, world!"
-$ ls -l | grep minishell
-$ cat file.txt > output.txt
-$ cd ../
-$ export MY_VAR="42"
-$ echo $MY_VAR
-$ exit`
+`$ echo "Hello, world!"`
+`$ ls -l | grep minishell`
+`$ cat file.txt > output.txt`
+`$ cd ../`
+`$ export MY_VAR="42"`
+`$ echo $MY_VAR`
+`$ exit`
 
 ## Built-in Commands
 
