@@ -20,8 +20,8 @@ The project focuses on mastering low-level C programming, process management, si
 
 ### Clone the repository:
 
-`git clone https://github.com/yourusername/minishell.git
-cd minishell`
+`git clone the repo`
+`cd minishell`
 
 
 ### Compile the project:
