@@ -70,4 +70,4 @@ This will create the minishell executable in the project directory.
 
 ___
 
-This project was made with lots of ❤️ in collaboration with [@goksuko] (https://github.com/goksuko)
+This project was made with lots of ❤️ in collaboration with [@goksuko](https://github.com/goksuko)
