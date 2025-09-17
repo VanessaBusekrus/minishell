@@ -68,5 +68,6 @@ $ exit`
 * Pipes: Use `pipe()` to connect multiple commands
 * Signals: Catch `SIGINT` and `SIGQUIT`
 
+___
 
 This project was made with lots of ❤️ in collaboration with @goksuko (https://github.com/goksuko)
