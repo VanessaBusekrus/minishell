@@ -1,13 +1,13 @@
-#minishell
+# minishell
 
-##Description
+## Description
 
 minishell is a simplified Unix shell implemented in C as part of the 42 curriculum.
 It aims to mimic the behavior of a basic shell, handling command execution, redirections, pipes, environment variables, and built-in commands.
 
 The project focuses on mastering low-level C programming, process management, signal handling, and command parsing.
 
-##Features
+## Features
 
 * Execute simple commands with arguments
 * Handle multiple commands separated by pipes (|)
@@ -16,29 +16,29 @@ The project focuses on mastering low-level C programming, process management, si
 * Support for environment variables
 * Signal handling (`Ctrl+C`, `Ctrl+D`)
 
-##Installation
+## Installation
 
-###Clone the repository:
+### Clone the repository:
 
 `git clone https://github.com/yourusername/minishell.git
 cd minishell`
 
 
-###Compile the project:
+### Compile the project:
 
 `make`
 
 
 This will create the minishell executable in the project directory.
 
-##Usage
+## Usage
 
-###Run the shell:
+### Run the shell:
 
 `./minishell`
 
 
-##Example commands:
+## Example commands:
 
 `$ echo "Hello, world!"
 $ ls -l | grep minishell
@@ -48,9 +48,9 @@ $ export MY_VAR="42"
 $ echo $MY_VAR
 $ exit`
 
-##Built-in Commands
+## Built-in Commands
 
-###Command	Description
+### Command	Description
 `cd`	Change the current working directory
 `echo`	Display text on the standard output
 `pwd`	Print the current working directory
@@ -60,7 +60,7 @@ $ exit`
 `exit`	Exit the shell
 
 
-##Implementation Details
+## Implementation Details
 
 * Parsing: Split input into commands, handle quotes and escapes
 * Execution: Fork child processes and execute commands
